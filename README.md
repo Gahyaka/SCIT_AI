@@ -1,16 +1,9 @@
-# SCIT_AI
+# Fase 2 - Analisis & Model Statistik Sederhana (2-3 Bulan)
 Dokumentasi Progres dan Proyek SCIT Divisi AI
 
-# Alur Roadmap SCIT DIVISI AI 2025
+Link Google Colab
+- Regresi Linier & Logistik : https://colab.research.google.com/drive/1TrViBbkMWNeL3GvNSmVMRnlwnnFRmgCy?usp=sharing
+  
+- Uji hipotesis & confidence interval : 
 
-- Fase 1 - Pengantar Data dan Statiska Dasar : https://github.com/Gahyaka/SCIT_AI/tree/Fase-1---Pengantar-Data-%26-Statiska-Dasar
-
-- Fase 2 - Analisis dan Model Statistik Sederhana : https://github.com/MUHAMMADAPZIRZARAFI/Fase-2---Analisis-dan-Model-Statistik-Sederhana..git
-
-- Fase 3 - Machine Learning Dasar
-
-- Fase 4 - Studi Kasus Mini (Teks/NLP)
-
-- Fase 5 - Pengantar Deep Learning
-
-- Fase 6 - Project Final (AI sebagai Agro-Solution Ketahanan Pangan di Sektor Pertanian)
+- Evaluasi model (akurasi, MAE, confusion matrix) : 
